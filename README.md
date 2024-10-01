@@ -1,5 +1,5 @@
 SALES PREDICTION USING PYTHON
-Welcome to the Sales Prediction project submission for the Data Science Internship at CodSoft!
+
 
 Overview
 This project aims to analyze the impact of different advertising channels on sales. By utilizing linear regression models, we assess the effectiveness of TV, radio, and newspaper advertisements and provide insights on how to optimize advertising spend for maximizing sales.
